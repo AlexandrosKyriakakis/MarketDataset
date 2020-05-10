@@ -3,7 +3,8 @@
     
     
     This Project selects products from a popular super-market. 
-    The scraped data are in [Here].
+    The scraped data are in 
+[Here](https://github.com/AlexandrosKyriakakis/MarketDataset/tree/master/data).
     
 
     Contains 6 categories:
@@ -42,4 +43,3 @@
     1. Eleni Karanikola
     2. Alexandros Kyriakakis
 
-[Here]: https://github.com/AlexandrosKyriakakis/MarketDataset/tree/master/data
