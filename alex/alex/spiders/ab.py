@@ -17,7 +17,7 @@ class DogSpider(CrawlSpider):
     proswpikis_urls = ['https://www.ab.gr/click2shop/Eidi-prosopikis-peripoiisis/c/012?pageNumber={}'.format(x) for x in range(0,90)]
     katoikidia_urls = ['https://www.ab.gr/click2shop/Gia-katoikidia/c/014?pageNumber={}'.format(x) for x in range(0,12)]
     spitiou_urls = ['https://www.ab.gr/click2shop/Katharistika-Chartika-and-eidi-spitioy/c/013?pageNumber={}'.format(x) for x in range(0,64)]
-    urls = kava_urls + oporopoleio_urls + kreata_urls + psigeiou_urls + katoikidia_urls + spitiou_urls
+    urls = kava_urls + oporopoleio_urls + kreata_urls + psigeiou_urls + katoikidia_urls + spitiou_urls + proswpikis_urls
     start_urls = urls[:]
     
 
