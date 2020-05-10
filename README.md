@@ -1,5 +1,5 @@
 # Super Market Dataset
-![](https://www.naftemporiki.gr/fu/p/1493489/638/399/0x000000000167101b/2/2.jpg = 100x20)
+![](https://www.naftemporiki.gr/fu/p/1493489/638/399/0x000000000167101b/2/2.jpg | width=100)
     
     Contains 6 categories:
         1. Fresh Food
