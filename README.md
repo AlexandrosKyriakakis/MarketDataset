@@ -2,9 +2,8 @@
 ![](https://www.naftemporiki.gr/fu/p/1493489/638/399/0x000000000167101b/2/2.jpg)
     
     
-    This Project selects products from a popular super-market. 
-    The scraped data are in 
-[Here](https://github.com/AlexandrosKyriakakis/MarketDataset/tree/master/data).
+This Project selects products from a popular super-market. 
+The scraped data are in [Here](https://github.com/AlexandrosKyriakakis/MarketDataset/tree/master/data).
     
 
     Contains 6 categories:
