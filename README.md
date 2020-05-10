@@ -1,12 +1,12 @@
 # Super Market Dataset
 
     Contains 6 categories:
-    1. Fresh Food
-    2. Fridge Items
-    3. Drinks
-    4. Pet
-    5. Personal Care
-    6. Home Items
+        1. Fresh Food
+        2. Fridge Items
+        3. Drinks
+        4. Pet
+        5. Personal Care
+        6. Home Items
 ### Dataset Structure
     AB.csv with columns
         1. category
