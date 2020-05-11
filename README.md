@@ -18,9 +18,10 @@ The scraped data are in [Here](https://github.com/AlexandrosKyriakakis/MarketDat
     AB.csv with columns
         1. category
         2. name
-        3. producer,
-        4. url,price,
-        5. barcode
+        3. producer
+        4. url
+        5. price
+        6. barcode
     RandomPeople.csv with columns
         1. id
         2. first_name
