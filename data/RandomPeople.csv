@@ -1,4 +1,4 @@
-id,first_name,last_name,email,gender,ip_address
+id,first_name,last_name,email,gender,SSN
 1,Olivia,Rickell,orickell0@mozilla.com,Female,100.82.170.250
 2,Zorina,Tingle,ztingle1@nydailynews.com,Female,124.164.39.154
 3,Tucky,Presnall,tpresnall2@sohu.com,Male,216.141.28.255
